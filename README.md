@@ -1,13 +1,13 @@
 # Made Dashboard page UI for a test
 path: http://localhost:3000/testPage
 # Project Setup
-1.git clone <repository-url>
-2.cd <repository-name>
-3.npm install
-4.npm run dev
+-git clone <repository-url>
+-cd <repository-name>
+-npm install
+-npm run dev
 # Dashboard page files location
-srcc/app/[locale]/testPage
-src/components/testPageComponents
+-src/app/[locale]/testPage
+-src/components/testPageComponents
 
 
 <<<<<<< HEAD
