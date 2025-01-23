@@ -4,7 +4,7 @@ path: http://localhost:3000/testPage
 <p>1.git clone repository-url</p>
 <p>2.cd repository-name</p>
 <p>3.npm install</p>
-<p>4.snpm run dev</p>
+<p>4.npm run dev</p>
   
 # Dashboard page files location
 <p>src/app/[locale]/testPage</p>
