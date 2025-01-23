@@ -1,14 +1,14 @@
 # Made Dashboard page UI for a test
 path: http://localhost:3000/testPage
 # Project Setup
--git clone <repository-url>
--cd <repository-name>
--npm install
--npm run dev
+<p>git clone <repository-url></p>
+<p>cd <repository-name></p>
+<p>npm install</p>
+<p>npm run dev</p>
 # Dashboard page files location
--src/app/[locale]/testPage
--src/components/testPageComponents
-
+<p>src/app/[locale]/testPage</p>
+<p>src/components/testPageComponents
+</p>
 
 <<<<<<< HEAD
 # Boilerplate and Starter for Next.js 15+, Tailwind CSS 3.4, and TypeScript.
