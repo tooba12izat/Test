@@ -1,8 +1,8 @@
 # Made Dashboard page UI for a test
 path: http://localhost:3000/testPage
 # Project Setup
-<p>1.git clone <repository-url></p>
-<p>2.cd <repository-name></p>
+<p>1.git clone repository-url</p>
+<p>2.cd repository-name</p>
 <p>3.npm install</p>
 <p>4.snpm run dev</p>
   
